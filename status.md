@@ -1,4 +1,4 @@
-STAMP: 20261104-233858
+STAMP: 20261104-233918
 ERROR: file codeforces.id is absent
 ERROR: file .gitignore is absent
 ERROR: file CMakeLists.txt is absent
@@ -41,6 +41,6 @@ ERROR: file prj.test/CMakeLists.txt is absent
 ERROR: file prj.test/complex_test.cpp is absent
 ERROR: file prj.test/rational_test.cpp is absent
 ERROR: CMake generator failed
-ERROR: folder misis2026f-26-02-secname-i-o.git/prj.codeforces is absent
+ERROR: folder misis2026f-26-02-sinitsyna-a-v/prj.codeforces is absent
 ERROR: lab complex - test build failed
 ERROR: lab rational - test build failed
