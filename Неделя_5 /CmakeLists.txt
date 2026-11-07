@@ -1,2 +1,0 @@
-add_executable(1873C 1873C.cpp)
-add_executable(1873D 1873D.cpp)
