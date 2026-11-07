@@ -1,0 +1,2 @@
+add_executable(1585A 1585A.cpp)
+add_executable(1692C 1692C.cpp)
