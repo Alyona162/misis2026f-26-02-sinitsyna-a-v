@@ -1,1 +1,2 @@
 add_executable(1721B 1721B.cpp)
+add_executable(1330A 1330A.cpp)
