@@ -1,6 +1,0 @@
-add_executable(1352A 1352A.cpp)
-add_executable(1872A 1872A.cpp)
-add_executable(263A 263A.cpp)
-add_executable(276A 276A.cpp)
-add_executable(978A 978A.cpp)
-add_executable(978B 978B.cpp)
