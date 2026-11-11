@@ -14,6 +14,3 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELWITHDEBINFO ${CMAKE_CURRENT_SOURCE_DIR}/bi
 include_directories(prj.thirdparty prj.labs)
 
 add_subdirectory(prj.codeforces)
-add_subdirectory(prj.labs)
-add_subdirectory(prj.test)
-
