@@ -15,7 +15,7 @@ int main(){
         } std::cout<<c<<std::endl;
         for (j = st.size()-1; j >= 0; j --){
             if (st[j] != '0'){
-                    rez = st[j] - '0'; //строка в число
+                    rez = st[j] - '0'; //Г±ГІГ°Г®ГЄГ  Гў Г·ГЁГ±Г«Г®
                     for(int k = 0; k < st.size()-1-j; k ++){
                         rez *= 10;
                     }
